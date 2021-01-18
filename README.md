@@ -1,0 +1,2 @@
+# SkiTrip
+Chausser des skis !
