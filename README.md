@@ -17,13 +17,16 @@
 * C'est quelles stations qui seraient cool pour faire du ski de rando ?
 
 Chamonix : 
-combloux ça a l'air sweet aussi ( est pas loin de chamonix)
-Flaine : jamais fait àa a l'air cool
-Serre chevalier : beau domaine de jeux sur le parc des écrins / tarif logement ok.
+* combloux ça a l'air sweet aussi ( est pas loin de chamonix)
+* Flaine : jamais fait àa a l'air cool
+* Serre chevalier : beau domaine de jeux sur le parc des écrins / tarif logement ok.
 
 ### Locations appart
 
-**TODO** Une fois qu'on aura une liste de destinations 
+#### Options
+
+Chamonix:
+* https://www.airbnb.fr/rooms/31575500?adults=3&check_in=2021-01-29&check_out=2021-02-07&source_impression_id=p3_1610995474_bzm7FCQV5pHPl2QP&guests=1
 
 ## Matos
 
