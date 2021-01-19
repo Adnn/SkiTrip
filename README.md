@@ -1,5 +1,15 @@
 # SkiTrip
 
+## Todo
+
+* Révision du Kangoo
+* Trouver chaînes pour le Kangoo
+* Trouver un logement
+* Trouver où louer des splitboards
+* Recevoir matos Guigui
+* Faire la liste de course / faire les courses
+* Prévoir kiprenkoi
+
 ## Destinations
 
 **TODO** :
