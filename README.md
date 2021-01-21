@@ -45,7 +45,7 @@ Les snowboardeurs, faut décider si on part sur `splitboard` ou combo `raquettes
 
 ### Location splitboard
 
-### SkiTruck
+### SkiTruck
 
 Un gars du vieux campeur m'avait recommandé [SkiTruck](https://g.page/skitruck?share) à Grenoble.
 
