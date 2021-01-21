@@ -45,7 +45,16 @@ Les snowboardeurs, faut décider si on part sur `splitboard` ou combo `raquettes
 
 ### Location splitboard
 
+### SkiTruck
+
 Un gars du vieux campeur m'avait recommandé [SkiTruck](https://g.page/skitruck?share) à Grenoble.
+
+Je les ai eu au tel : matos a récupérer à leur magasin de Grenoble. (ouvertures en semaine : 10h 18h, dimanche 8h 10h 16h 18h, samedi je sais plus)
+278€ pour 9jours en pack split complet (peau couteau baton split, et boots souples si besoin)
+
+A rappeler au 04.76.87.24.74 pour confirmer si on lui prend. Au passage faudra lui donner les tailles exactes, les pieds avant, et les angles habituels. 
+
+
 
 ### Location matériel 
 
