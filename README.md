@@ -18,12 +18,19 @@
 
 
 * Chamonix : 
-390€ la journée de guide "privé", jusqu'à 5 personnes:
-https://www.chamonix-guides.com/fr/activites/details/ski-de-rando-journee 
+
+  390€ la journée de guide "privé", jusqu'à 5 personnes:
+  https://www.chamonix-guides.com/fr/activites/details/ski-de-rando-journee 
 
 * combloux ça a l'air sweet aussi ( est pas loin de chamonix)
 * Flaine : jamais fait àa a l'air cool
+
+  J'attend le retour de Laurent Broisin : https://www.flaine.com/annuaire/post/laurent-broisin
+  
 * Serre chevalier : beau domaine de jeux sur le parc des écrins / tarif logement ok.
+
+  370€ la journée de guide "privé", jusqu'à 4 personnes:
+  https://guides-serrechevalier.com/activites/ski-de-randonnee/
 
 ### Locations appart
 
