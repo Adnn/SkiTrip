@@ -3,20 +3,24 @@
 ## Todo
 
 * Révision du Kangoo
-* Trouver chaînes pour le Kangoo
+* ~~Trouver chaînes pour le Kangoo~~
 * Trouver un logement
 * Trouver où louer des splitboards
 * Recevoir matos Guigui
 * Faire la liste de course / faire les courses
 * Prévoir kiprenkoi
+* Franz: t'as contacté Camille ?
+
 
 ## Destinations
 
-**TODO** :
+**TODO** : Quels domaines sont cools pour la rando?
 
-* C'est quelles stations qui seraient cool pour faire du ski de rando ?
 
-Chamonix : 
+* Chamonix : 
+390€ la journée de guide "privé", jusqu'à 5 personnes:
+https://www.chamonix-guides.com/fr/activites/details/ski-de-rando-journee 
+
 * combloux ça a l'air sweet aussi ( est pas loin de chamonix)
 * Flaine : jamais fait àa a l'air cool
 * Serre chevalier : beau domaine de jeux sur le parc des écrins / tarif logement ok.
