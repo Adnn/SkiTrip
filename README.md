@@ -37,7 +37,7 @@
 #### Options
 
 Chamonix:
-* https://www.airbnb.fr/rooms/31575500?adults=3&check_in=2021-01-29&check_out=2021-02-07&source_impression_id=p3_1610995474_bzm7FCQV5pHPl2QP&guests=1
+* https://www.airbnb.fr/rooms/31575500?adults=3&check_in=2021-01-29&check_out=2021-02-07&source_impression_id=p3_1610995474_bzm7FCQV5pHPl2QP&guests=1 PLUS DISPO
 
 ## Matos
 
