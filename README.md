@@ -11,6 +11,12 @@
 * Prévoir kiprenkoi
 * Franz: t'as contacté Camille ?
 
+## Contacts
+
+* Olivier Jarniac (CAF Lyon Villeurbanne)
+  >Pour la location je ne connais pas trop et je sais que ce n’est pas simple à trouver. Je crois qu’il y a espace montagne entre autre. En hard boot ça complexifie aussi.
+  >
+  >Pour la station : c’est une bonne idée de débuter en station, surtout actuellement avec remontées fermées et certaines pistes sécurisées. Chamrousse est très bien. Et possible de sortir un peu des sentiers battus.
 
 ## Destinations
 
@@ -31,6 +37,11 @@
 
   370€ la journée de guide "privé", jusqu'à 4 personnes:
   https://guides-serrechevalier.com/activites/ski-de-randonnee/
+  
+* Chamrousse (recommandation CAF)
+
+  340€ l'engagement journée:
+  http://guides-chamrousse.fr/index.php/hiver/le-ski-de-randonnee
 
 ### Locations appart
 
