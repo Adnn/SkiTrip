@@ -44,6 +44,10 @@
 
   J'attend le retour de Laurent Broisin : https://www.flaine.com/annuaire/post/laurent-broisin
 
+* Les sybelles :
+ https://www.sybelles.ski/experiences/ski-de-randonnee/
+http://guide.montagne.arves.free.fr/
+
 * Serre chevalier : beau domaine de jeux sur le parc des écrins / tarif logement ok.
 
   370€ la journée de guide "privé", jusqu'à 4 personnes:
@@ -76,6 +80,11 @@ Chamrousse:
 
 Flaine:
 * https://www.airbnb.fr/rooms/7756347/photos?adults=3&check_in=2021-01-29&check_out=2021-02-07&source_impression_id=p3_1611317977_2DeQdIrRhbFiXKaM&guests=1
+
+Les sybelles:
+* https://www.airbnb.fr/rooms/41331185?check_in=2021-01-29&check_out=2021-02-07&source_impression_id=p3_1611340344_6nW8E71hTEO1KuDt&guests=1&adults=1
+* https://www.airbnb.fr/rooms/31343475?check_in=2021-01-29&check_out=2021-02-07&source_impression_id=p3_1611340436_79siE1Tzx%2F047IGs&guests=1&adults=1
+* https://www.airbnb.fr/rooms/41331185?check_in=2021-01-29&check_out=2021-02-07&source_impression_id=p3_1611340344_6nW8E71hTEO1KuDt&guests=1&adults=1
 
 ## Matos
 
