@@ -59,7 +59,7 @@
 #### Options
 
 Chamonix:
-* https://www.airbnb.fr/rooms/31575500?adults=3&check_in=2021-01-29&check_out=2021-02-07&source_impression_id=p3_1610995474_bzm7FCQV5pHPl2QP&guests=1 PLUS DISPO
+* https://www.airbnb.fr/rooms/31575500?adults=3&check_in=2021-01-29&check_out=2021-02-07&source_impression_id=p3_1610995474_bzm7FCQV5pHPl2QP&guests=1 RE DISPO
 * https://www.airbnb.fr/rooms/24585319?adults=3&check_in=2021-01-29&check_out=2021-02-06&source_impression_id=p3_1611238827_hpKCUChzRcr7aoiX
 * https://www.airbnb.fr/rooms/25942716?adults=3&check_in=2021-01-29&check_out=2021-02-06&source_impression_id=p3_1611239096_bfEkhvi45OCIl%2BBz&guests=1 (residence pour véhicule haut de gamme)
 * https://www.airbnb.fr/rooms/43877508?adults=3&check_in=2021-01-29&check_out=2021-02-06&source_impression_id=p3_1611239224_jmLC6zJdejMdfgpe&guests=1 (mais canap convertible)
