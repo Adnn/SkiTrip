@@ -47,6 +47,9 @@ Serre-Che:
 * https://www.airbnb.fr/rooms/39167513?adults=3&check_in=2021-01-29&check_out=2021-02-06&source_impression_id=p3_1611237510_uoNckf79xPXTXI4E (manque de baignoire)
 * https://www.airbnb.fr/rooms/18418039?adults=3&check_in=2021-01-29&check_out=2021-02-06&source_impression_id=p3_1611238149_42L5LIusyl1BsB%2F0&guests=1
 
+Chamrousse:
+* https://www.airbnb.fr/rooms/40549015?adults=3&check_in=2021-01-29&check_out=2021-02-06&source_impression_id=p3_1611309378_0TDHHnu4ydAhDOv7&guests=1 (85% de réduc ma gueule)
+
 ## Matos
 
 Les snowboardeurs, faut décider si on part sur `splitboard` ou combo `raquettes + planche normale`.
