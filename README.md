@@ -17,6 +17,17 @@
   >Pour la location je ne connais pas trop et je sais que ce n’est pas simple à trouver. Je crois qu’il y a espace montagne entre autre. En hard boot ça complexifie aussi.
   >
   >Pour la station : c’est une bonne idée de débuter en station, surtout actuellement avec remontées fermées et certaines pistes sécurisées. Chamrousse est très bien. Et possible de sortir un peu des sentiers battus.
+  
+* Guillaume Fauraz (CAF Lyon Villeurbanne)
+  >Bonjour Adrien,
+  >Le snowboard en rando se développe au caf de Lyon avec une pratique orientée split.
+  >Cette année nous avons 2 groupes, un groupe initiation et un groupe perfectionnement.
+  >Les 2 groupes sont complets mais pour l'année prochaine tu peux déjà te préparer.
+  >Si tu veux faire quelques sorties cette année en location tu peux trouver du matos dans certains magasins sur Lyon (Addicted et Vieux campeur je crois) ou chez les loueurs en montagne. Je te conseille aussi de faire un tour sur les forums (https://splitboard.forumactif.com/).
+  >On a un groupe whatsapp split aussi si tu es inscrit au caf.
+  >Si tu veux commencer seul tu peux aller sur des itinéraires balisés qui existent en station.
+  >A bientôt
+  >Guillaume
 
 ## Destinations
 
