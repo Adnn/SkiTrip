@@ -100,6 +100,10 @@ Ils n'en ont plus de dispo à cette période.
 
 Nope
 
+### Chamonix
+
+https://www.grands-montets-sports.com/fr/location-ski-snowboard
+
 
 
 ### Location matériel
