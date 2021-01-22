@@ -76,7 +76,9 @@ Serre-Che:
 * https://www.airbnb.fr/rooms/13805124/photos?adults=3&check_in=2021-01-29&check_out=2021-02-07&source_impression_id=p3_1611317915_EuMMUeGcabU%2Bzt6O&guests=1
 
 Chamrousse:
-* https://www.airbnb.fr/rooms/40549015?adults=3&check_in=2021-01-29&check_out=2021-02-06&source_impression_id=p3_1611309378_0TDHHnu4ydAhDOv7&guests=1 (85% de réduc ma gueule)
+* https://www.airbnb.fr/rooms/40549015?adults=3&check_in=2021-01-29&check_out=2021-02-06&source_impression_id=p3_1611309378_0TDHHnu4ydAhDOv7&guests=1 PAS ANNULABLE, merde (85% de réduc ma gueule)
+* https://www.airbnb.fr/rooms/40500535?adults=3&check_in=2021-01-29&check_out=2021-02-06&source_impression_id=p3_1611341962_k9zvNjRROvCTWCcn&guests=1
+* https://www.airbnb.fr/rooms/34266425?adults=3&check_in=2021-01-29&check_out=2021-02-06&source_impression_id=p3_1611341968_RU2TK3Ox6JGZp2jl&guests=1
 
 Flaine:
 * https://www.airbnb.fr/rooms/7756347/photos?adults=3&check_in=2021-01-29&check_out=2021-02-07&source_impression_id=p3_1611317977_2DeQdIrRhbFiXKaM&guests=1
