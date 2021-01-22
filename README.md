@@ -61,6 +61,13 @@
 Chamonix:
 * https://www.airbnb.fr/rooms/31575500?adults=3&check_in=2021-01-29&check_out=2021-02-07&source_impression_id=p3_1610995474_bzm7FCQV5pHPl2QP&guests=1 PLUS DISPO
 
+Serre Chevalier:
+* https://www.airbnb.fr/rooms/16218310?adults=3&check_in=2021-01-29&check_out=2021-02-07&source_impression_id=p3_1611317781_apQ01M3Ax4f0mMCS&guests=1
+* https://www.airbnb.fr/rooms/13805124/photos?adults=3&check_in=2021-01-29&check_out=2021-02-07&source_impression_id=p3_1611317915_EuMMUeGcabU%2Bzt6O&guests=1
+
+Flaine:
+* https://www.airbnb.fr/rooms/7756347/photos?adults=3&check_in=2021-01-29&check_out=2021-02-07&source_impression_id=p3_1611317977_2DeQdIrRhbFiXKaM&guests=1
+
 ## Matos
 
 Les snowboardeurs, faut décider si on part sur `splitboard` ou combo `raquettes + planche normale`.
