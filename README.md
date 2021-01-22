@@ -76,6 +76,14 @@ Je les ai eu au tel : matos a récupérer à leur magasin de Grenoble. (ouvertur
 
 A rappeler au 04.76.87.24.74 pour confirmer si on lui prend. Au passage faudra lui donner les tailles exactes, les pieds avant, et les angles habituels. 
 
+### Espace Montagne (lyon)
+
+Ils n'en ont plus de dispo à cette période.
+
+### Vieux Campeur
+
+Nope
+
 
 
 ### Location matériel 
