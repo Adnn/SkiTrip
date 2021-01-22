@@ -9,7 +9,7 @@
 * Recevoir matos Guigui
 * Faire la liste de course / faire les courses
 * Prévoir kiprenkoi
-* Franz: t'as contacté Camille ?
+* Message envoyé a Camille
 
 ## Contacts
 
