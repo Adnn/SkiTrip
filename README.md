@@ -76,6 +76,7 @@ Serre-Che:
 * https://www.airbnb.fr/rooms/13805124/photos?adults=3&check_in=2021-01-29&check_out=2021-02-07&source_impression_id=p3_1611317915_EuMMUeGcabU%2Bzt6O&guests=1
 
 Chamrousse:
+* https://www.airbnb.fr/rooms/32097088?adults=3&check_in=2021-01-29&check_out=2021-02-07&federated_search_id=a3fdb1b0-07d1-4bf5-9bfd-3e1e19298f2f&source_impression_id=p3_1611399385_0jdf40gqmjqndvvB&guests=1 **Le seul que j'ai trouvé qui soit okay ET annulable jusqu'au 28**
 * https://www.airbnb.fr/rooms/40549015?adults=3&check_in=2021-01-29&check_out=2021-02-06&source_impression_id=p3_1611309378_0TDHHnu4ydAhDOv7&guests=1 PAS ANNULABLE, merde (85% de réduc ma gueule)
 * https://www.airbnb.fr/rooms/40500535?adults=3&check_in=2021-01-29&check_out=2021-02-06&source_impression_id=p3_1611341962_k9zvNjRROvCTWCcn&guests=1
 * https://www.airbnb.fr/rooms/34266425?adults=3&check_in=2021-01-29&check_out=2021-02-06&source_impression_id=p3_1611341968_RU2TK3Ox6JGZp2jl&guests=1
