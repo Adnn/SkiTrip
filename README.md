@@ -95,7 +95,9 @@ Les snowboardeurs, faut décider si on part sur `splitboard` ou combo `raquettes
 
 ### Location splitboard
 
-### SkiTruck
+### SkiTruck, Grenoble
+
+** FAUX PLAN ** (et on n'est pas les premiers à priori, vu ce que disait le gars d'adrenaline)
 
 Un gars du vieux campeur m'avait recommandé [SkiTruck](https://g.page/skitruck?share) à Grenoble.
 
@@ -104,7 +106,17 @@ Je les ai eu au tel : matos a récupérer à leur magasin de Grenoble. (ouvertur
 
 A rappeler au 04.76.87.24.74 pour confirmer si on lui prend. Au passage faudra lui donner les tailles exactes, les pieds avant, et les angles habituels.
 
-### Espace Montagne (lyon)
+### Adrénaline, Grenoble (http://www.adrenaline-ski-shop.com/)
+
+Mec assez cool location de kits plum d'une valeur de 1800€.
+Nous compterait 8 jours du vendredi au dimanche, à 340€. Inclus split, peaus, couteaux, batons téléscopiques, **pas** les boots.
+
+*En attente du retour mail*
+
+### SKI SERVICE PROBEL Caroline "kozma", Grenoble
+
+
+### Espace Montagne, Lyon
 
 Ils n'en ont plus de dispo à cette période.
 
