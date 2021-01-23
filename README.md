@@ -70,6 +70,8 @@ Chamonix:
 * https://www.airbnb.fr/rooms/33701069?adults=3&check_in=2021-01-29&check_out=2021-02-06&source_impression_id=p3_1611238839_yGDkaVCbl9SNmU0k&guests=1 (pas de baignoire)
 
 Serre-Che:
+* https://www.airbnb.fr/rooms/16523798?adults=3&check_in=2021-01-29&check_out=2021-02-07&federated_search_id=caec8ba6-7061-41f8-ba79-39f426cf7a2a&source_impression_id=p3_1611400516_5mWwepVl6APb7463&guests=1 **ANNULABLE**
+* https://www.airbnb.fr/rooms/40223560?adults=3&check_in=2021-01-29&check_out=2021-02-07&federated_search_id=caec8ba6-7061-41f8-ba79-39f426cf7a2a&source_impression_id=p3_1611403880_eKia4kOH%2FN4itgnZ&guests=1 **ANNULABLE**
 * https://www.airbnb.fr/rooms/39167513?adults=3&check_in=2021-01-29&check_out=2021-02-06&source_impression_id=p3_1611237510_uoNckf79xPXTXI4E (manque de baignoire)
 * https://www.airbnb.fr/rooms/18418039?adults=3&check_in=2021-01-29&check_out=2021-02-06&source_impression_id=p3_1611238149_42L5LIusyl1BsB%2F0&guests=1
 * https://www.airbnb.fr/rooms/16218310?adults=3&check_in=2021-01-29&check_out=2021-02-07&source_impression_id=p3_1611317781_apQ01M3Ax4f0mMCS&guests=1
@@ -97,7 +99,7 @@ Les snowboardeurs, faut décider si on part sur `splitboard` ou combo `raquettes
 
 ### SkiTruck, Grenoble
 
-** FAUX PLAN ** (et on n'est pas les premiers à priori, vu ce que disait le gars d'adrenaline)
+**FAUX PLAN** (et on n'est pas les premiers à priori, vu ce que disait le gars d'adrenaline)
 
 Un gars du vieux campeur m'avait recommandé [SkiTruck](https://g.page/skitruck?share) à Grenoble.
 
