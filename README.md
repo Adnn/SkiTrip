@@ -2,13 +2,17 @@
 
 ## Todo
 
-* Révision du Kangoo
+* ~~Révision du Kangoo~~
 * ~~Trouver chaînes pour le Kangoo~~
 * Trouver un logement
 * Trouver où louer des splitboards
 * Recevoir matos Guigui
 * Faire la liste de course / faire les courses
 * Prévoir kiprenkoi
+* Ce genre de tisane
+
+### Timeout
+
 * Message envoyé a Camille
 
 ## Contacts
@@ -59,6 +63,10 @@ http://guide.montagne.arves.free.fr/
   http://guides-chamrousse.fr/index.php/hiver/le-ski-de-randonnee
 
 ### Locations appart
+
+Pour l'instant on a celui là : https://www.airbnb.fr/rooms/41306634?source_impression_id=p3_1611566119_ipziXdGp2n5Q9k0u&guests=1&adults=1
+
+*Annulable sans frais jusqu'à jeudi 28 3pm*
 
 #### Options
 
