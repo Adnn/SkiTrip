@@ -107,6 +107,8 @@ Les snowboardeurs, faut décider si on part sur `splitboard` ou combo `raquettes
 
 2020/01/26 : on a une réservation sur deux splits (156 et 160cm) à Adrenaline Grenoble. Outre la petite taille du grand snow, le problème est qu'on peut récupérer le matos qu'au retour qui va en être fait vendredi soir (le gars m'a dit de passer à 16h45 17h, et y'a un couvre feu). 
 
+**A RETOURNER POUR 8H45** le dimanche matin.
+
 #### SkiTruck, Grenoble
 
 **FAUX PLAN** (et on n'est pas les premiers à priori, vu ce que disait le gars d'adrenaline)
@@ -122,8 +124,6 @@ A rappeler au 04.76.87.24.74 pour confirmer si on lui prend. Au passage faudra l
 
 Mec assez cool location de kits plum d'une valeur de 1800€.
 Nous compterait 8 jours du vendredi au dimanche, à 340€. Inclus split, peaus, couteaux, batons téléscopiques, **pas** les boots.
-
-*En attente du retour mail*
 
 #### SKI SERVICE PROBEL Caroline "kozma", Grenoble
 
