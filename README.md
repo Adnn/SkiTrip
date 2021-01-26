@@ -105,7 +105,9 @@ Les snowboardeurs, faut décider si on part sur `splitboard` ou combo `raquettes
 
 ### Location splitboard
 
-### SkiTruck, Grenoble
+2020/01/26 : on a une réservation sur deux splits (156 et 160cm) à Adrenaline Grenoble. Outre la petite taille du grand snow, le problème est qu'on peut récupérer le matos qu'au retour qui va en être fait vendredi soir (le gars m'a dit de passer à 16h45 17h, et y'a un couvre feu). 
+
+#### SkiTruck, Grenoble
 
 **FAUX PLAN** (et on n'est pas les premiers à priori, vu ce que disait le gars d'adrenaline)
 
@@ -116,25 +118,25 @@ Je les ai eu au tel : matos a récupérer à leur magasin de Grenoble. (ouvertur
 
 A rappeler au 04.76.87.24.74 pour confirmer si on lui prend. Au passage faudra lui donner les tailles exactes, les pieds avant, et les angles habituels.
 
-### Adrénaline, Grenoble (http://www.adrenaline-ski-shop.com/)
+#### Adrénaline, Grenoble (http://www.adrenaline-ski-shop.com/)
 
 Mec assez cool location de kits plum d'une valeur de 1800€.
 Nous compterait 8 jours du vendredi au dimanche, à 340€. Inclus split, peaus, couteaux, batons téléscopiques, **pas** les boots.
 
 *En attente du retour mail*
 
-### SKI SERVICE PROBEL Caroline "kozma", Grenoble
+#### SKI SERVICE PROBEL Caroline "kozma", Grenoble
 
 
-### Espace Montagne, Lyon
+#### Espace Montagne, Lyon
 
 Ils n'en ont plus de dispo à cette période.
 
-### Vieux Campeur
+#### Vieux Campeur
 
 Nope
 
-### Chamonix
+#### Chamonix
 
 https://www.grands-montets-sports.com/fr/location-ski-snowboard
 
