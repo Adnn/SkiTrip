@@ -65,6 +65,9 @@ http://guide.montagne.arves.free.fr/
 ### Locations appart
 
 Pour l'instant on a celui là : https://www.airbnb.fr/rooms/41306634?source_impression_id=p3_1611566119_ipziXdGp2n5Q9k0u&guests=1&adults=1
+Des tutos de savoir se servir d'un appart : https://fromsmash.com/~4ghwXyAKT-ct
+
+Programme de la semaine à Chamrousse : https://www.chamrousse.com/calendrier-animation-evenement.html
 
 *Annulable sans frais jusqu'à jeudi 28 3pm*
 
